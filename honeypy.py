@@ -1,4 +1,4 @@
-# Import library dependencies.
+# Import all library dependencies.
 import argparse
 # Import project python file dependencies. This is the main file to interface with the honeypot with.
 from ssh_honeypot import *
