@@ -1,4 +1,4 @@
-# Import library dependencies.
+# Import all library dependencies.
 import logging
 from logging.handlers import RotatingFileHandler
 import paramiko
