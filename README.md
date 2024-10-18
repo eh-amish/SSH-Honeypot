@@ -7,7 +7,7 @@ A modular, graphic-based honeypot to capture IP Adresses, usernames, passwords, 
 **1) Clone repository.**
 `[https://github.com/eh-amish/SSH-Honeypot.git]`
 
-**2) Permissions.**
+**2) Permissions.***
 Move into `ssh_honeypy` folder.
 
 Ensure `main.py` has proper permisions. (`chmod 755 main.py`)
