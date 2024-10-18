@@ -1,4 +1,4 @@
-# Import library dependencies.
+# Import all library dependencies.
 from flask import Flask, render_template, request, redirect, url_for
 import logging
 from logging.handlers import RotatingFileHandler
